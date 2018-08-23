@@ -29,13 +29,13 @@ import com.android.settings.R;
 
 import com.android.settings.SettingsPreferenceFragment;
 
-public class AostSettings extends SettingsPreferenceFragment {
+public class StatusBarSettings extends SettingsPreferenceFragment {
 
     @Override
     public void onCreate(Bundle icicle) {
         super.onCreate(icicle);
 
-        addPreferencesFromResource(R.xml.aost_settings);
+        addPreferencesFromResource(R.xml.statusbar_settings);
     }
 
     @Override

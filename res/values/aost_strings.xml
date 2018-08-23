@@ -20,4 +20,6 @@
     <string name="cancel">Cancel</string>
     <string name="save">Save</string>
 
+    <!-- StatusBar -->
+    <string name="aost_statusbar_title">AOST Statusbar Settings</string>
 </resources>
