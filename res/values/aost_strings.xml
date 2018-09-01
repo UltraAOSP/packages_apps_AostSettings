@@ -23,6 +23,12 @@
     <!-- StatusBar -->
     <string name="aost_statusbar_title">AOST Statusbar Settings</string>
 
+    <!-- Network Traffic -->
+    <string name="traffic_title">Traffic indicators</string>
+    <string name="traffic_summary">Enable traffic indicators on the statusbar and configure traffic related tweaks</string>
+    <string name="network_traffic_state_title">Show net activity in statusbar</string>
+    <string name="network_traffic_autohide_threshold_title">Net activity autohide threshold (KB/s)</string>
+
     <!-- Personalization -->
     <string name="aost_color_title">Personalization Settings</string>
 </resources>

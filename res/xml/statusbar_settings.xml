@@ -17,5 +17,10 @@
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
     android:title="@string/aost_statusbar_title" >
 
+    <PreferenceScreen
+        android:key="traffic_key"
+        android:fragment="com.aost.settings.fragments.TrafficIndicators"
+        android:title="@string/traffic_title"
+	android:summary="@string/traffic_title" />
 
 </PreferenceScreen>
